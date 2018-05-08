@@ -2,6 +2,4 @@ print("Hello")
 print("World")
 print("Music")
 
-
-print("\\")
-print("Grace")
+print("Zoë Rocks")
